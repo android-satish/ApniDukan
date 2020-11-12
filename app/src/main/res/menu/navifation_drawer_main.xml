@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_work_24"/>
+    <item android:title="Customers"
+        android:id="@+id/drawer_customer"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item android:title="Bills"
+        android:id="@+id/drawer_billing"
+        android:icon="@drawable/ic_baseline_receipt_24"/>
+    <item android:title="Items"
+        android:id="@+id/drawer_items"
+        android:icon="@drawable/ic_baseline_list_24"/>
+
+</menu>
